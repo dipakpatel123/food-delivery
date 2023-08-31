@@ -1,0 +1,21 @@
+
+.right{
+    display: inline-block;
+    /* border: 2px solid red; */
+    color: white;
+    position: absolute;
+    top: 25px;
+    right: 18px;
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+.btn2{
+    margin: 0px 4px;
+    padding: 4px 14px;
+    color: black;
+    /* border: 2px solid grey;
+    background-color: gray; */
+    font-size: 18px;
+    /* border-radius: 10px; */
+    cursor: pointer;
+}
